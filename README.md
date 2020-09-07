@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Структура проекта
+
+Скопмпилированный проект находится в папке /build. Для его запуска запуска необходимо:<br />
+
+1) Установить пакет для развёртки статического сервера: npm install serve
+2) Запустить сервер: serve -s build
+
+Для сборки и запуска проекта в режиме разработчика: npm start (описание ниже).
+
 ## Available Scripts
 
 In the project directory, you can run:
